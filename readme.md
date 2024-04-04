@@ -25,5 +25,5 @@ This project utilizes computer vision and the YOLOv8 nano variation object detec
 
 3.  **Run the Main Script:**
     ```bash
-    python main.py
+    python camera.py
     ```
